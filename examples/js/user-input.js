@@ -3,7 +3,7 @@ var multiplier = parseInt(prompt("Enter a number:"), 10);
 
 var doc = new jsPDF();
 doc.setFontSize(22);
-doc.text(20, 20, "Questions");
+doc.text(20, 20, "Questions are looong. Text is longba nsd aI jdhjdhhaudh dgaydgayft DAFUAFY FEPOPOW wgwyfg");
 doc.setFontSize(16);
 doc.text(20, 30, "This belongs to: " + name);
 
